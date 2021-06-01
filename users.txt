@@ -20,10 +20,10 @@ User name=Benutzername
 
 ; New entries (8) - 2021-05-31
 Click Add User to create a user for remote shares access=Click **Add User** to create a user for remote shares access
-Invalid Key=
-Management Access=
-No users are defined=
-Save=
-Shares Access=
-SSH authorized keys=
-Syntax of the key is incorrect=
+Invalid Key=Ungültiger Schlüssel
+Management Access=Verwaltungs-Zugang
+No users are defined=Keine Benutzer definiert
+Save=Speichern
+Shares Access=Freigaben-Zugang
+SSH authorized keys=SSH authorisierte Schlüssel
+Syntax of the key is incorrect=Syntax des Schlüssels ist nicht korrekt

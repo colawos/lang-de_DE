@@ -319,8 +319,8 @@ View VFIO-PCI Log=VFIO-PCI Log ansehen
 PCI Devices No IOMMU Groups Available=PCI Devices (Keine IOMMU Gruppen verfügbar)
 
 ; New entries (2) - 2021-05-10
-Next=
-Stable=
+Next=Nächste
+Stable=Stabil
 
 ; New entries (1) - 2021-05-20
-Beta=
+Beta=Vorab
